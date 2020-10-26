@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyLocation</string>
+    <string name="maps_api_key">AIzaSyDVcgwoOWes_YuRRmDS-kwzOPZ3AvhOl6Q</string>
+    <string name="play_services_not_available">Play Services is necessary for the map.</string>
+    <string name="cancel_error_dialog">"Dialog Cancelled."</string>
+    <string name="permission_request_message">This permission is actually necessary to get the real time position of the device.</string>
+    <string name="activate_gps_message">Activate your GPS for high precision geolocation. Thank you</string>
 </resources>
